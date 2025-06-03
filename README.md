@@ -14,7 +14,7 @@ WordNest is a modern blogging platform built with Django where users can create,
 
 - Python 3.x
 - Django
-- Bootstrap 5
+- Bootstrap 4
 - Font Awesome
 - SQLite (Database)
 
